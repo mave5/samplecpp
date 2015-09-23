@@ -1,0 +1,40 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: CyberScreen - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\behnam\LOCALS~1\Temp\RSP409.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/CyberScreen.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\behnam\Desktop\Rashidi_86_12\Cyber\VC++\Cyber_1.1\CyberScreen source\CyberScreenDlg.cpp"
+"C:\Documents and Settings\behnam\Desktop\Rashidi_86_12\Cyber\VC++\Cyber_1.1\status area icon class\StatusAreaIconObj.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\behnam\LOCALS~1\Temp\RSP409.tmp" 
+Creating temporary file "C:\DOCUME~1\behnam\LOCALS~1\Temp\RSP40A.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/CyberScreen.pdb" /debug /machine:I386 /out:"Debug/CyberScreen.exe" /pdbtype:sept 
+".\Debug\CyberScreen.obj"
+".\Debug\CyberScreenDlg.obj"
+".\Debug\StatusAreaIconObj.obj"
+".\Debug\StdAfx.obj"
+".\Debug\CyberScreen.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\behnam\LOCALS~1\Temp\RSP40A.tmp"
+<h3>Output Window</h3>
+Compiling...
+CyberScreenDlg.cpp
+Generating Code...
+Skipping... (no relevant changes detected)
+StatusAreaIconObj.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+CyberScreen.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
